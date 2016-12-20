@@ -4,7 +4,7 @@
 ![Solarized Dark][2]
 
 ## Installation
-> *Tested working on Xcode 5+*
+> *Tested working on Xcode 8+*
 
 1. Copy the two .dvtcolortheme files into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`. You may have to create the directory if there isn't an existed one.
 2. Restart your Xcode if it is running.
